@@ -1,40 +1,31 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Skills Learnt in Splunk</title>
-</head>
-<body>
-    <h1>Skills Learnt in Splunk</h1>
+# Skills Learnt in Splunk
 
-    <h2>Data Ingestion</h2>
-    <p>One of the first skills I picked up was how to bring data into Splunk. This involved setting up data inputs from various sources like logs, metrics, and events. I learnt to configure forwarders and manage data pipelines to ensure all relevant information is captured.</p>
+## Data Ingestion
+One of the first skills I picked up was how to bring data into Splunk. This involved setting up data inputs from various sources like logs, metrics, and events. I learnt to configure forwarders and manage data pipelines to ensure all relevant information is captured.
 
-    <h2>Searching and Reporting</h2>
-    <p>Splunk's search processing language (SPL) is a powerful tool for querying data. I got the hang of writing search queries to filter, transform, and analyse data. This skill is crucial for generating insightful reports and dashboards that help in decision-making.</p>
+## Searching and Reporting
+Splunk's search processing language (SPL) is a powerful tool for querying data. I got the hang of writing search queries to filter, transform, and analyse data. This skill is crucial for generating insightful reports and dashboards that help in decision-making.
 
-    <h2>Dashboard Creation</h2>
-    <p>Creating interactive and visually appealing dashboards is another key skill I developed. I learnt to use Splunk's dashboard editor to design custom dashboards that display real-time data, trends, and key performance indicators (KPIs). This is particularly useful for monitoring systems and identifying issues quickly.</p>
+## Dashboard Creation
+Creating interactive and visually appealing dashboards is another key skill I developed. I learnt to use Splunk's dashboard editor to design custom dashboards that display real-time data, trends, and key performance indicators (KPIs). This is particularly useful for monitoring systems and identifying issues quickly.
 
-    <h2>Alerts and Monitoring</h2>
-    <p>Setting up alerts is essential for proactive monitoring. I learnt to configure alerts based on specific conditions or thresholds, ensuring that I get notified about potential issues before they escalate. This skill helps in maintaining system health and performance.</p>
+## Alerts and Monitoring
+Setting up alerts is essential for proactive monitoring. I learnt to configure alerts based on specific conditions or thresholds, ensuring that I get notified about potential issues before they escalate. This skill helps in maintaining system health and performance.
 
-    <h2>Data Visualisation</h2>
-    <p>Splunk offers a variety of visualisation options, from simple charts to complex graphs. I learnt to choose the right visualisation for my data, making it easier to interpret and communicate findings to stakeholders.</p>
+## Data Visualisation
+Splunk offers a variety of visualisation options, from simple charts to complex graphs. I learnt to choose the right visualisation for my data, making it easier to interpret and communicate findings to stakeholders.
 
-    <h2>Security and Compliance</h2>
-    <p>Splunk is widely used for security information and event management (SIEM). I gained skills in setting up and managing security use cases, such as detecting anomalies, monitoring user activities, and ensuring compliance with industry standards.</p>
+## Security and Compliance
+Splunk is widely used for security information and event management (SIEM). I gained skills in setting up and managing security use cases, such as detecting anomalies, monitoring user activities, and ensuring compliance with industry standards.
 
-    <h2>Performance Tuning</h2>
-    <p>To get the best out of Splunk, I needed to understand how to optimise its performance. This included managing indexing, configuring search head clustering, and fine-tuning queries to ensure they run efficiently.</p>
+## Performance Tuning
+To get the best out of Splunk, I needed to understand how to optimise its performance. This included managing indexing, configuring search head clustering, and fine-tuning queries to ensure they run efficiently.
 
-    <h2>Scripting and Automation</h2>
-    <p>Automation is key to managing large-scale Splunk deployments. I learnt to write scripts using Python or other languages to automate routine tasks, such as data ingestion, report generation, and system maintenance.</p>
+## Scripting and Automation
+Automation is key to managing large-scale Splunk deployments. I learnt to write scripts using Python or other languages to automate routine tasks, such as data ingestion, report generation, and system maintenance.
 
-    <h2>Troubleshooting</h2>
-    <p>Finally, troubleshooting skills are essential. I learnt to diagnose and resolve issues that arise within Splunk, whether they're related to data ingestion, search performance, or system configuration.</p>
+## Troubleshooting
+Finally, troubleshooting skills are essential. I learnt to diagnose and resolve issues that arise within Splunk, whether they're related to data ingestion, search performance, or system configuration.
 
-    <p>These skills have not only made me proficient in using Splunk but also enhanced my overall data analysis and IT management capabilities. If you have any specific questions or need further details on any of these skills, feel free to ask!</p>
-</body>
-</html>
+These skills have not only made me proficient in using Splunk but also enhanced my overall data analysis and IT management capabilities. 
+
