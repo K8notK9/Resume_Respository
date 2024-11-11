@@ -1,0 +1,51 @@
+# Acme Corporation Data Breach Report
+
+## Overview
+Acme Corporation, a multinational retail company, recently experienced a significant data breach. This breach exposed the personal information of millions of customers, including names, addresses, credit card numbers, and purchase histories. The breach occurred due to a combination of factors, including outdated security software, inadequate employee training, and a failure to implement industry-recognized security standards (Tuffley, D., 2007).
+
+## Security Principles and Concepts
+The ACME corporation failed to adhere to key security principles and concepts, including:
+- Outdated security software
+- Inadequate employee training
+- Lack of implementation of industry-recognized security standards
+
+### Outdated Security Software
+Outdated security software can lead to increased vulnerability to malware infections, making the system more susceptible to ransomware attacks once information is breached. Additionally, using outdated software can cause compatibility issues with other software and hardware, potentially leading to data loss or corruption. Furthermore, without receiving security patches from vendors, the system remains vulnerable to known exploits (Tuffley, D., 2007).
+
+### Inadequate Employee Training
+Inadequate employee training can have several negative impacts. When employees don’t receive proper training, they are likely to feel ill-equipped to succeed in their current positions, which can reduce employee productivity as they struggle to do their jobs effectively. This can also lead to safety risks, compliance and legal issues, knowledge gaps, and ineffective management for not noticing the ongoing issue (Tuffley, D., 2007).
+
+### Lack of Implementation of Industry-Recognized Security Standards
+Lacking implementation of industry-recognized security standards can cause legal and regulatory risks, data breaches and cyberattacks (already happened), financial impact, reputation damage, and operational disruptions.
+
+## Importance of Aligning with Security Standards
+ACME Corporation needs to align with security standards to establish strong security policies and reduce the likelihood of successful cyber security attacks. It will also help to share objectives and responsibilities and lead to more cohesive and effective security efforts. Building trust with stakeholders and demonstrating a proactive approach to risk management is crucial (Tuffley, D., 2007). NIST has created guidelines for building and maintaining a comprehensive awareness and training program for any organization's IT security. NIST can help corporations understand their roles and responsibilities as well as the proper IT security policy, standards, and practices the company needs to implement. This would have helped mitigate the breach in data and allowed the company to prevent this from occurring (NIST, 2023).
+
+## Sector-Specific Security Standards
+The following are important sector-specific standards for the retail industry:
+- **General Data Protection Regulation (GDPR)**: A European Union regulation that establishes rules for the collection, processing, and storage of personal data. Compliance with GDPR is crucial for protecting customers' personal data and maintaining their trust (GDPR, 2018).
+- **California Consumer Privacy Act (CCPA)**: A law specific to California that gives consumers more control over their personal information. It allows consumers to have control over how their personal information is used (State of California Department of Justice, 2019).
+- **Health Insurance Portability and Accountability Act (HIPAA)**: A federal law that governs the collection of an individual's personal health information. HIPAA compliance is necessary to ensure the protection of individual health information from unauthorized access and disclosure (HHS, 2022).
+
+## Legal and Regulatory Implications
+ACME Corporation not complying with the standards now leaves them open to fines, legal liability, and reputational damage. The overall process to rectify the damage will take time and money. Many industries have specific security standards that they are expected to adhere to. Aligning with the standards will help the company demonstrate compliance and care about their clients' personal information. Allowing the stakeholders to see that actions are being taken to mitigate this from happening again (Tuffley, D., 2007).
+
+## Recommendations
+To help prevent and mitigate this from happening again, ACME Corporation should:
+1. Implement a training program for employees, including information on identifying and reporting cyber-attacks and protecting themselves and the company.
+2. Release a statement of apology for the oversight in security updates and systems.
+3. Assist affected parties in protecting themselves from any future data breaches via provision of information or data patches.
+4. Provide a clear statement of what has happened and why. Be direct and forthcoming with customers and stakeholders.
+5. Explain the next steps that have been taken to mitigate this issue from occurring again (NIST, 2023).
+
+## Conclusion
+ACME Corporation needs to align with security standards for data protection and risk mitigation. Implementing these measures will reduce the financial impact on customers and stakeholders, reputation damage, and operational disruptions. Recognized security practices and standards help safeguard sensitive information, prevent unauthorized access, and reduce the risk of breaches. If action is not taken effectively, repercussions of legal liability, financial, and informational damage will occur.
+
+## References
+- NIST Technical Series Publications | NIST. (2023, August 3). Retrieved from https://www.nist.gov/nist-research-library/nist-publications
+- Oaic. (2023, October 9). Australian Privacy Principles quick reference. Retrieved from https://www.oaic.gov.au/privacy/australian-privacy-principles/australian-privacy-principles-quick-reference
+- General Data Protection Regulation (GDPR) – Legal Text. (2024, April 22). General Data Protection Regulation (GDPR). https://gdpr-info.eu/
+- Retail Cybersecurity: Threats, Statistics and Best Practices. (2024, January 8). https://www.threatintelligence.com/blog/retail-cybersecurity
+- California Consumer Privacy Act (CCPA). (2024, March 13). State of California - Department of Justice - Office of the Attorney General. https://www.oag.ca.gov/privacy/ccpa
+- Rights, O. F. C. (2022, October 19). Summary of the HIPAA Privacy Rule. HHS.gov. https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html
+- Tuffley, D. (2007). Cyber Security Standards & Operations. Griffith University.
