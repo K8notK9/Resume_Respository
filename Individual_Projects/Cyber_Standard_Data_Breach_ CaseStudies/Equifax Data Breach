@@ -1,0 +1,51 @@
+# Equifax Data Breach Report
+
+## Introduction
+Equifax, one of the largest credit reporting agencies in the United States, experienced a massive data breach that exposed the personal and financial information of nearly 148 million Americans. Apache Struts, a web application framework, had a vulnerability which Equifax failed to patch despite the available update. The attackers used this exploit to gain access to the company's system and exfiltrated sensitive data over several weeks (Tuffley, D., 2007).
+
+## NIST Cybersecurity Framework (CSF)
+The NIST CSF is structured around five core functions: Identify, Protect, Detect, Respond, and Recover. These functions present a strategic perspective on the lifecycle of cybersecurity risk management activities.
+
+- **Identify:** Formulate an organizational understanding of the risks to systems, assets, data, and capabilities. This involves asset management, risk assessment, and risk management strategies.
+- **Protect:** Implement suitable safeguards to ensure the delivery of critical infrastructure services. This includes access control, awareness and training, data security, and protective technology.
+- **Detect:** Deploy appropriate activities to identify the occurrence of a cybersecurity event. This encompasses continuous monitoring, anomaly detection, and security continuous monitoring.
+- **Respond:** Develop and implement appropriate activities to take action regarding a detected cybersecurity incident. This includes response planning, communications, analysis, and mitigation.
+- **Recover:** Develop and implement appropriate activities to maintain plans for resilience and to restore any capabilities or services that were impaired due to a cybersecurity incident. This includes recovery planning, improvements, and communications.
+
+## NIST SP 800-53 Security and Privacy Controls
+NIST Special Publication 800-53 is a guide to security and privacy controls developed by NIST. It offers safeguards to protect federal information systems from threats. The controls are flexible, organized into 20 families, and assigned baseline levels. The publication provides guidance on control selection, implementation, and assessment, and emphasizes continuous monitoring. It is regularly updated to address evolving threats and changes in requirements. Organizations can establish a comprehensive and risk-based approach to cybersecurity by adopting the controls (NIST, 2023).
+
+## CIS Critical Security Controls
+The CIS Critical Security Controls (CIS Controls) are a set of cyber defense safeguards developed by the Center for Internet Security (CIS) to protect organizations against common cyber-attacks. They provide a practical approach to cybersecurity, focusing on critical areas of risk mitigation (NIST, 2023).
+
+The controls are based on "offense informing defense," continuously updated based on real-world cyber-attack data and threat intelligence. They are organized into three categories: Basic, Foundational, and Organizational, addressing specific security objectives and defense layers.
+
+- **Basic Controls (CIS Controls 1-6):** Focus on essential cyber hygiene practices.
+- **Foundational Controls (CIS Controls 7-16):** Address more advanced security concepts.
+- **Organizational Controls (CIS Controls 17-20):** Handle governance and management aspects of cybersecurity.
+
+Each CIS Control includes detailed implementation guidance, metrics, and measurement criteria. By adopting these controls, organizations can establish a solid foundation for their cybersecurity program aligned with industry best practices. Regular reassessment and continuous improvement are essential for staying ahead of emerging threats (Tuffley, D., 2007).
+
+## Mapping Controls to Organizational Requirements
+Mapping security controls to an organization's specific requirements is crucial for an effective cybersecurity program. The process involves the following key steps (NIST, 2023):
+
+1. Identify organizational requirements, including risk appetite, compliance mandates, and business objectives.
+2. Select relevant control frameworks such as NIST SP 800-53, ISO 27001, CIS Controls, and sector-specific guidelines.
+3. Analyze control catalogs to assess their relevance and applicability.
+4. Prioritize and tailor controls to align with unique needs.
+5. Develop an implementation plan outlining selected controls, timelines, and resource allocation.
+6. Implement and monitor controls, adjusting as needed.
+
+This collaborative approach ensures that controls align with the organization's overall security strategy and operational objectives. Regular reviews and updates are essential to address changes in the organization's risk landscape and regulatory requirements (Tuffley, D., 2007).
+
+## Recommendations
+Effective control implementation and assessment are essential for a strong cybersecurity program. It involves developing implementation plans, configuring and deploying controls, documenting implementation, and communicating and training stakeholders. Assessment activities include control testing, continuous monitoring, control evaluation, and implementing corrective actions. Collaboration between security professionals, system administrators, compliance teams, and business stakeholders is crucial for successful control implementation and assessment. This structured approach helps organizations maintain a robust security posture, demonstrate compliance, and improve cybersecurity practices continuously.
+
+## Conclusion
+The Equifax data breach could have been prevented by better aligning their security controls with their specific risks, regulatory obligations, and business objectives. Implementing the recommendations above will help prevent such data breaches in the future and mitigate possible future attacks.
+
+## References
+- Tuffley, D. (2007). Cyber Security Standards & Operations. Griffith University.
+- General Data Protection Regulation (GDPR) – Legal Text. (2024, April 22). Retrieved from https://gdpr-info.eu/
+- NIST Technical Series Publications | NIST. (2023, August 3). Retrieved from https://www.nist.gov/nist-research-library/nist-publications
+- Retail Cybersecurity: Threats, Statistics and Best Practices. (2024, January 8). Retrieved from https://www.threatintelligence.com/blog/retail-cybersecurity

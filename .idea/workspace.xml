@@ -4,22 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f44f0cc2-e0f8-4520-9923-fe92bbb863a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Resume_Repository.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Group_Projects/Cyber Insurance" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Group_Projects/Essential Eight" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Group_Projects/Microsoft 365 Assessments" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Individual_Projects/Cyber_Standard_Data_Breach_ CaseStudies/The Data Breach at ACME Corporation" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Individual_Projects/DNS_Server_Network_Connections" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Individual_Projects/Roster_Hours_Chart.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Individual_Projects/Splunk_Excersises" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="f44f0cc2-e0f8-4520-9923-fe92bbb863a2" name="Changes" comment="Commit">
+      <change afterPath="$PROJECT_DIR$/Individual_Projects/Cyber_Standard_Data_Breach_ CaseStudies/Colonial Pipeline Ransomware Attack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Individual_Projects/Cyber_Standard_Data_Breach_ CaseStudies/Equifax Data Breach" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Individual_Projects/Cyber_Standard_Data_Breach_ CaseStudies/Insider Threat at DataSafe Solutions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Individual_Projects/Cyber_Standard_Data_Breach_ CaseStudies/Supply Chain Attack on SolarWinds" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_1/Wk 1 - Problem 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_1/Wk 1 - Problem 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_1/Wk 1 - Problem 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_1/Wk 1 - Problem 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_1/Wk 1 - Problem 5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_1/Wk 1 - Problem 6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_1/Wk 1 - Submitted Question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_1/phillip.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_6/BINGO.fbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_6/WK6_TEST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_6/Wk6Workshop.fbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_6/Workshop_6_TEST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_6/run_template.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_6/template_frame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_7/Workshop_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_7/run_template_plot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_7/template_frame_plot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_7/template_frame_plot.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_8/PartGlobalWeatherRepository.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_8/Workshop8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_8/part_wine_reviews.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_8/run_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_8/run_app.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_8/template_frame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_8/template_frame.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_9/Workshop_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group_Projects/Cyber Insurance" beforeDir="false" afterPath="$PROJECT_DIR$/Group_Projects/Cyber Insurance" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +53,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -49,15 +69,23 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/kitca/PycharmProjects/Resume_Repository/Individual_Projects/Python_Programming_Exercises",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.project",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kitca\PycharmProjects\Resume_Repository\Individual_Projects\Python_Programming_Exercises" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Resume_Repository" />
@@ -98,12 +126,36 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731287295121</updated>
-      <workItem from="1731287351543" duration="2560000" />
+      <workItem from="1731287351543" duration="4622000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1731290178361</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731290178361</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

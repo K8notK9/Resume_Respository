@@ -1,0 +1,45 @@
+# DataSafe Solutions Insider Threat Report
+
+## Introduction
+DataSafe Solutions, which deals with data storage and management, recently had a disgruntled employee infiltrate a large amount of sensitive customer data before resigning. The employee bypassed access controls, tampered with security logs, and transferred the data to an external storage device, causing significant financial losses, reputational damage, and potential legal liabilities for DataSafe Solutions (Tuffley, D., 2007).
+
+## ISO 27001/27002 and Insider Threat
+ISO 27001/27002 could have helped prevent or mitigate the incident by covering all aspects of an organization’s operations, including people, processes, and technology. The ISO 27001/27002 promotes a Plan-Do-Check-Act (PDCA) approach that helps with continuous improvement in information security management. The steps the organization must take to help prevent and mitigate this issue include:
+1. Protect their information assets from potential threats and vulnerabilities.
+2. Ensure compliance with legal, regulatory, and contractual requirements.
+3. Enhance their overall security posture and resilience.
+4. Gain a competitive advantage by demonstrating a commitment to information security.
+5. Foster a culture of security awareness and responsibility throughout the organization (Calder & Watkins, n.d.; Tuffley, D., 2007).
+
+## Risk Assessment and Insider Threat
+Risk assessment is critical in identifying and addressing potential insider threats. The main purposes of risk assessments are to identify potential data breach avenues, malicious malware corruption potential, and system vulnerabilities, and to develop action plans to address these risks. DataSafe can implement security controls covering various domains such as access control, cryptography, physical security, operational security, and incident management. This includes providing security awareness training and establishing metrics for measuring the effectiveness of the ISMS (Calder & Watkins, n.d.).
+
+## Security Controls for Insider Threat Prevention
+Implementing security controls and processes is essential to mitigate identified risks and protect the confidentiality, integrity, and availability of DataSafe's informational assets. Specific ISO 27002 controls that could have been implemented include:
+- **Control Design and Documentation:** Design and document policies, procedures, and processes governing the implementation and operation of selected controls.
+- **Control Implementation and Deployment:** Implement and deploy designed controls (e.g., password updates, 2FA, program updates) across relevant systems, processes, and organizational units. This helps keep security protocols and information up to date (Calder, n.d.).
+
+## Continuous Improvement and Monitoring
+Continuous improvement and monitoring are rooted in the Plan-Do-Check-Act (PDCA) cycle:
+1. **Plan:** Establish information security policies, objectives, processes, and procedures relevant to managing risks and improving the ISMS.
+2. **Do:** Implement and operate the planned ISMS controls and processes.
+3. **Check:** Monitor and review the ISMS and its controls for effectiveness, compliance, and performance against the organization's security objectives.
+4. **Act:** Take actions to continually improve the ISMS based on the results of monitoring and review activities.
+
+DataSafe Solutions can leverage these processes to prevent further incidents by planning, implementing, monitoring, and improving their security control measures (Calder & Watkins, n.d.).
+
+## Recommendations
+Recommendations for DataSafe Solutions include:
+1. Complete a risk evaluation and analyze the risks and likelihood of occurrence while considering legal and regulatory requirements.
+2. Provide risk treatment options based on the evaluated risk, including risk avoidance, risk mitigation, risk transfer, and risk acceptance.
+3. Implement a risk treatment plan by allocating treatment options such as associated actions, responsibilities, resources, and timeline for implementation.
+4. Continuously monitor the effectiveness of chosen controls and mitigation strategies, including technical, administrative, and physical controls.
+
+## Conclusion
+DataSafe Solutions must proactively address potential vulnerabilities, comply with regulatory requirements, and protect their valuable information assets to enhance their overall security posture and resilience. By following the Plan-Do-Check-Act process, DataSafe Solutions can help mitigate insider threats from happening again in the future.
+
+## References
+- Tuffley, D. (2007). Cyber Security Standards & Operations. Griffith University.
+- Field, A. (n.d.). Risk Management and ISO 31000 - A pocket guide. O’Reilly Online Learning. https://learning.oreilly.com/library/view/risk-management-and/9781787784178/xhtml/chapter02.html
+- Calder, A., & Watkins, S. (n.d.). Information Security Risk Management for ISO 27001/ISO 27002, third edition. O’Reilly Online Learning. https://learning.oreilly.com/library/view/information-security-risk/9781787781382/xhtml/Contents.html
+- NIST Technical Series Publications | NIST. (2023, August 3). Retrieved from https://www.nist.gov/nist-research-library/nist-publications
