@@ -1,52 +1,46 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Colonial Pipeline Ransomware Attack Report</title>
-</head>
-<body>
-    <h1>Colonial Pipeline Ransomware Attack Report</h1>
+# Colonial Pipeline Ransomware Attack Report
 
-    <h2>Introduction</h2>
-    <p>In May 2021, Colonial Pipeline, a major U.S. fuel pipeline operator, suffered a ransomware attack, disrupting fuel supplies across the East Coast. The attackers accessed Colonial Pipeline's network using a compromised VPN password without multi-factor authentication, then deployed ransomware to encrypt critical systems and demanded payment for decryption (Tuffley, D. 2007).</p>
+## Introduction
+In May 2021, Colonial Pipeline, a major U.S. fuel pipeline operator, suffered a ransomware attack, disrupting fuel supplies across the East Coast. The attackers accessed Colonial Pipeline's network using a compromised VPN password without multi-factor authentication, then deployed ransomware to encrypt critical systems and demanded payment for decryption (Tuffley, D. 2007).
 
-    <h2>Authentication and Authorization Failures</h2>
-    <p>Authentication and authorization are crucial security controls that ensure only legitimate users and entities access systems, applications, and data. These form the foundation of an effective identity and access management (IAM) strategy.</p>
-    <p>Authentication mechanisms confirm the identity of a user, device, or system attempting to access resources through methods such as passwords, biometrics, cryptographic authentication, and multi-factor authentication (MFA).</p>
-    <p>Authorization mechanisms then determine the level of access and permitted actions within a system or application based on predefined policies, roles, and rules (Tuffley, D. 2007).</p>
-    <p>Effective authentication and authorization mechanisms are essential for maintaining a secure environment, protecting sensitive data, and ensuring regulatory compliance.</p>
-    <p>If the Colonial pipeline operators had conducted regular reviews, updates, and continuous monitoring of these mechanisms, they could have addressed evolving threats, changes in user roles, and new regulatory requirements. A robust IAM strategy centered around strong authentication and authorization controls is a cornerstone of any organization's cybersecurity program and one that should be implemented within the organization (Tuffley, D. 2007).</p>
+## Authentication and Authorization Failures
+Authentication and authorization are crucial security controls that ensure only legitimate users and entities access systems, applications, and data. These form the foundation of an effective identity and access management (IAM) strategy.
 
-    <h2>Identity and Access Management (IAM) Systems</h2>
-    <p>Identity and Access Management (IAM) systems are essential for organizations to manage user access to systems and resources. They include components such as user directories, authentication and authorization mechanisms, and access management tools. IAM systems enable role-based access control (RBAC), privileged access management (PAM), single sign-on (SSO), and multi-factor authentication (MFA). By implementing IAM systems, organizations can ensure that the right people have access to the right resources at the right time while following best practices for security. Having an IAM system could have helped Colonial Pipeline better manage user access and prevent unauthorized access to their network (Tuffley, D. 2007).</p>
+Authentication mechanisms confirm the identity of a user, device, or system attempting to access resources through methods such as passwords, biometrics, cryptographic authentication, and multi-factor authentication (MFA).
 
-    <h2>Privileged Access Management (PAM)</h2>
-    <p>Privileged Access Management (PAM) involves practices and technologies to control access to privileged accounts. Its goal is to minimize risk by enforcing strict controls and monitoring. Key components include discovering privileged accounts, managing credentials, controlling access, monitoring sessions, enforcing least privilege, and analyzing privileged user activities.</p>
-    <p>Implementing PAM helps protect critical systems from threats and misuse of privileged accounts. It also aids in compliance with regulatory requirements. Effective PAM requires a comprehensive approach that integrates people, processes, and technology to tightly control, monitor, and audit privileged access throughout its lifecycle (NIST, 2023).</p>
+Authorization mechanisms then determine the level of access and permitted actions within a system or application based on predefined policies, roles, and rules (Tuffley, D. 2007).
 
-    <h2>Role-Based Access Control (RBAC)</h2>
-    <p>Role-Based Access Control (RBAC) is a widely adopted access control mechanism that regulates permissions and access to resources based on the roles assigned to individuals or entities within an organization. Unlike traditional access control models that grant permissions directly to users, RBAC introduces the concept of roles, which serve as intermediaries between users and permissions.</p>
-    <p>In an RBAC system, roles are defined based on job functions, responsibilities, and the level of access required to perform specific tasks within an organization. These roles are then assigned a set of permissions that determine the actions they can perform and the resources they can access. Users are assigned one or more roles based on their responsibilities and duties within the organization.</p>
-    <p>The primary advantage of RBAC is its ability to simplify the administration and management of access control. Instead of assigning permissions directly to individual users, administrators can focus on defining roles and assigning appropriate permissions to those roles. When a new user joins the organization or an existing user's responsibilities change, the administrator simply needs to assign or modify the user's role, automatically granting or revoking the necessary permissions.</p>
-    <p>RBAC also promotes the principle of least privilege, which states that users should only be granted the minimum permissions required to perform their job functions. By assigning roles with specific permissions, RBAC ensures that users cannot access resources or perform actions beyond their authorized scope, reducing the risk of unauthorized access and potential security breaches.</p>
-    <p>Furthermore, RBAC facilitates auditing and compliance by providing a clear mapping between roles and their associated permissions. This transparency allows organizations to easily review and validate the access rights granted to each role, ensuring compliance with regulatory requirements and internal policies.</p>
-    <p>RBAC can be implemented in various contexts, including operating systems, databases, applications, and cloud environments. Many organizations adopt RBAC as part of their overall security strategy, as it helps enforce access control policies consistently across different systems and applications, while also simplifying the management of user permissions and access rights. This in turn can limit the attackers' access and minimize the impact of the attack due to constant changes in the access control of the company and employees (Tuffley, D. 2007).</p>
+Effective authentication and authorization mechanisms are essential for maintaining a secure environment, protecting sensitive data, and ensuring regulatory compliance.
 
-    <h2>Recommendations</h2>
-    <p>Colonial Pipeline ransomware attack recommendations include implementing an authorization and authentication system into its organization. Allowing all employees and users to use 2FA to gain access to the system. Also incorporating an IAM system will help improve user access management. By implementing IAM systems, organizations can ensure that the right people have access to the right resources at the right time while following best practices for security. Having an IAM system could have helped Colonial Pipeline better manage user access and prevent unauthorized access to their network (Tuffley, D. 2007).</p>
+If the Colonial pipeline operators had conducted regular reviews, updates, and continuous monitoring of these mechanisms, they could have addressed evolving threats, changes in user roles, and new regulatory requirements. A robust IAM strategy centered around strong authentication and authorization controls is a cornerstone of any organization's cybersecurity program and one that should be implemented within the organization (Tuffley, D. 2007).
 
-    <h2>Conclusion</h2>
-    <p>The Colonial Pipeline Organization has identified the necessity of bolstering its cybersecurity measures to protect its critical infrastructure from potential cyber threats. To achieve this, the organization needs to deploy a comprehensive Identity and Access Management (IAM) system, alongside integrating Privileged Access Management (PAM) and Role-Based Access Control (RBAC) into its security architecture. This multi-layered approach will provide robust protection and ensure that only authorized individuals have access to sensitive resources, minimizing the likelihood of security breaches and cyber-attacks in the future.</p>
+## Identity and Access Management (IAM) Systems
+Identity and Access Management (IAM) systems are essential for organizations to manage user access to systems and resources. They include components such as user directories, authentication and authorization mechanisms, and access management tools. IAM systems enable role-based access control (RBAC), privileged access management (PAM), single sign-on (SSO), and multi-factor authentication (MFA). By implementing IAM systems, organizations can ensure that the right people have access to the right resources at the right time while following best practices for security. Having an IAM system could have helped Colonial Pipeline better manage user access and prevent unauthorized access to their network (Tuffley, D. 2007).
 
-    <h2>References</h2>
-    <ul>
-        <li>Tuffley, D. (2007). Cyber Security Standards & Operations. Griffith University.</li>
-        <li>NIST Technical Series Publications | NIST. (2023, August 3). Retrieved from <a href="https://www.nist.gov/nist-research-library/nist-publications">https://www.nist.gov/nist-research-library/nist-publications</a></li>
-        <li>California Consumer Privacy Act (CCPA). (2024, March 13). Retrieved from <a href="https://www.oag.ca.gov/privacy/ccpa">https://www.oag.ca.gov/privacy/ccpa</a></li>
-        <li>Calder, A. (n.d.). ISO 27001/ISO 27002 - A guide to information security management systems. Retrieved from <a href="https://learning.oreilly.com/library/view/iso-27001-iso-27002/9781787784956/xhtml/intro.html#sec6">https://learning.oreilly.com/library/view/iso-27001-iso-27002/9781787784956/xhtml/intro.html#sec6</a></li>
-        <li>Brumfield, C., & Haugli, B. (2021). Cybersecurity Risk Management. <a href="https://doi.org/10.1002/9781119816348">https://doi.org/10.1002/9781119816348</a></li>
-        <li>Retail Cybersecurity: Threats, Statistics and Best Practices. (2024, January 8). Retrieved from <a href="https://www.threatintelligence.com/blog/retail-cybersecurity">https://www.threatintelligence.com/blog/retail-cybersecurity</a></li>
-    </ul>
-</body>
-</html>
+## Privileged Access Management (PAM)
+Privileged Access Management (PAM) involves practices and technologies to control access to privileged accounts. Its goal is to minimize risk by enforcing strict controls and monitoring. Key components include discovering privileged accounts, managing credentials, controlling access, monitoring sessions, enforcing least privilege, and analyzing privileged user activities.
+
+Implementing PAM helps protect critical systems from threats and misuse of privileged accounts. It also aids in compliance with regulatory requirements. Effective PAM requires a comprehensive approach that integrates people, processes, and technology to tightly control, monitor, and audit privileged access throughout its lifecycle (NIST, 2023).
+
+## Role-Based Access Control (RBAC)
+Role-Based Access Control (RBAC) is a widely adopted access control mechanism that regulates permissions and access to resources based on the roles assigned to individuals or entities within an organization. Unlike traditional access control models that grant permissions directly to users, RBAC introduces the concept of roles, which serve as intermediaries between users and permissions.
+
+In an RBAC system, roles are defined based on job functions, responsibilities, and the level of access required to perform specific tasks within an organization. These roles are then assigned a set of permissions that determine the actions they can perform and the resources they can access. Users are assigned one or more roles based on their responsibilities and duties within the organization.
+
+The primary advantage of RBAC is its ability to simplify the administration and management of access control. Instead of assigning permissions directly to individual users, administrators can focus on defining roles and assigning appropriate permissions to those roles. When a new user joins the organization or an existing user's responsibilities change, the administrator simply needs to assign or modify the user's role, automatically granting or revoking the necessary permissions.
+
+RBAC also promotes the principle of least privilege, which states that users should only be granted the minimum permissions required to perform their job functions. By assigning roles with specific permissions, RBAC ensures that users cannot access resources or perform actions beyond their authorized scope, reducing the risk of unauthorized access and potential security breaches.
+
+Furthermore, RBAC facilitates auditing and compliance by providing a clear mapping between roles and their associated permissions. This transparency allows organizations to easily review and validate the access rights granted to each role, ensuring compliance with regulatory requirements and internal policies.
+
+RBAC can be implemented in various contexts, including operating systems, databases, applications, and cloud environments. Many organizations adopt RBAC as part of their overall security strategy, as it helps enforce access control policies consistently across different systems and applications, while also simplifying the management of user permissions and access rights. This in turn can limit the attackers' access and minimize the impact of the attack due to constant changes in the access control of the company and employees (Tuffley, D. 2007).
+
+## Recommendations
+Colonial Pipeline ransomware attack recommendations include implementing an authorization and authentication system into its organization. Allowing all employees and users to use 2FA to gain access to the system. Also incorporating an IAM system will help improve user access management. By implementing IAM systems, organizations can ensure that the right people have access to the right resources at the right time while following best practices for security. Having an IAM system could have helped Colonial Pipeline better manage user access and prevent unauthorized access to their network (Tuffley, D. 2007).
+
+## Conclusion
+The Colonial Pipeline Organization has identified the necessity of bolstering its cybersecurity measures to protect its critical infrastructure from potential cyber threats. To achieve this, the organization needs to deploy a comprehensive Identity and Access Management (IAM) system, alongside integrating Privileged Access Management (PAM) and Role-Based Access Control (RBAC) into its security architecture. This multi-layered approach will provide robust protection and ensure that only authorized individuals have access to sensitive resources, minimizing the likelihood of security breaches and cyber-attacks in the future.
+
+## References
+- Tuffley, D. (2007). Cyber Security Standards & Operations. Griffith University.
+- NIST Technical Series Publications | NIST. (2023, August 3). Retrieved from https://www.nist.gov/nist-research-library/nist-publications
