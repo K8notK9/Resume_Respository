@@ -5,38 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f44f0cc2-e0f8-4520-9923-fe92bbb863a2" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/Individual_Projects/Cyber_Standard_Data_Breach_ CaseStudies/Colonial Pipeline Ransomware Attack" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Individual_Projects/Cyber_Standard_Data_Breach_ CaseStudies/Equifax Data Breach" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Individual_Projects/Cyber_Standard_Data_Breach_ CaseStudies/Insider Threat at DataSafe Solutions" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Individual_Projects/Cyber_Standard_Data_Breach_ CaseStudies/Supply Chain Attack on SolarWinds" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_1/Wk 1 - Problem 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_1/Wk 1 - Problem 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_1/Wk 1 - Problem 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_1/Wk 1 - Problem 4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_1/Wk 1 - Problem 5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_1/Wk 1 - Problem 6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_1/Wk 1 - Submitted Question.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_1/phillip.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_6/BINGO.fbp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_6/WK6_TEST.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_6/Wk6Workshop.fbp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_6/Workshop_6_TEST.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_6/run_template.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_6/template_frame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_7/Workshop_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_7/run_template_plot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_7/template_frame_plot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_7/template_frame_plot.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_8/PartGlobalWeatherRepository.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_8/Workshop8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_8/part_wine_reviews.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_8/run_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_8/run_app.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_8/template_frame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_8/template_frame.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Individual_Projects/Python_Programming_Exercises/Workshop_9/Workshop_9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Group_Projects/Cyber Insurance" beforeDir="false" afterPath="$PROJECT_DIR$/Group_Projects/Cyber Insurance" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +95,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731287295121</updated>
-      <workItem from="1731287351543" duration="4622000" />
+      <workItem from="1731287351543" duration="6348000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <option name="closed" value="true" />
@@ -136,7 +105,23 @@
       <option name="project" value="LOCAL" />
       <updated>1731290178361</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1731297414561</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731297414561</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1731297936967</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731297936967</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
